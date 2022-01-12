@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="project-management-system-master/src/main/java"/>
+	<classpathentry kind="src" path="project-management-system-master/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="project-management-system-master/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/spring-beans/4.1.8.RELEASE/spring-beans-4.1.8.RELEASE.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/spring-beans/4.1.8.RELEASE/spring-beans-4.1.8.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-beans-4.1.8.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-beans"/>
+			<attribute name="maven.version" value="4.1.8.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/spring-context/4.1.8.RELEASE/spring-context-4.1.8.RELEASE.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/spring-context/4.1.8.RELEASE/spring-context-4.1.8.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-context-4.1.8.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-context"/>
+			<attribute name="maven.version" value="4.1.8.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/spring-web/4.1.8.RELEASE/spring-web-4.1.8.RELEASE.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/spring-web/4.1.8.RELEASE/spring-web-4.1.8.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-web-4.1.8.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-web"/>
+			<attribute name="maven.version" value="4.1.8.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://docs.oracle.com/javaee/3/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/spring-web/5.3.14/spring-web-5.3.14.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/spring-web/5.3.14/spring-web-5.3.14-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-web"/>
+			<attribute name="maven.version" value="5.3.14"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/mongo-java-driver-3.12.10.jar"/>
+	<classpathentry kind="lib" path="F:/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="F:/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="F:/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-data-commons-core-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-data-graph-core-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/spring-instrument-5.3.14.jar"/>
+	<classpathentry kind="lib" path="F:/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/spring-test/5.3.14/spring-test-5.3.14.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/spring-test/5.3.14/spring-test-5.3.14-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-test"/>
+			<attribute name="maven.version" value="5.3.14"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/boot/spring-boot-test/2.5.8/spring-boot-test-2.5.8.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/boot/spring-boot-test/2.5.8/spring-boot-test-2.5.8-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-test"/>
+			<attribute name="maven.version" value="2.5.8"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/.m2/repository/org/springframework/boot/spring-boot/2.5.8/spring-boot-2.5.8.jar" sourcepath="C:/Users/ADMIN/.m2/repository/org/springframework/boot/spring-boot/2.5.8/spring-boot-2.5.8-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot"/>
+			<attribute name="maven.version" value="2.5.8"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
